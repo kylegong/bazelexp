@@ -1,0 +1,9 @@
+ansible/public_keys/*
+bazel-*
+node_modules/
+user.bazelrc
+
+# Gradle and Android studio related files
+.idea/
+.gradle/
+local.properties
